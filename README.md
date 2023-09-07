@@ -1,4 +1,5 @@
 # 👋 Hello, Cyber Adventurer!
+![Visitors](https://komarev.com/ghpvc/?witchblue=witchblue)
 
 I'm Witchblue, a passionate Cybersecurity Researcher & Enthusiast 🚀. Currently, Growing my skills in cybersecurity one challenge at a time! Currently diving into CTFs, exploring the world of malware analysis, and fascinated by the art of social engineering. Passionate about the path ahead as a future red teamer.
 
